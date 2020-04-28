@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "SHA25 - Rétrospective"
+author: "Flibble"
+date:   2020-04-28 21:47:0 +0200
+categories: sha25 ctf
+---
+
+Ceci est une rétrospective globale de ma participation au concours SHA25 qui a eu lieu du 6 avril jusqu'à la fin du mois. 
+
+**Jour 1** - "Ok, c'est juste de l'algo. Je vais m'en sortir. "
+
+**Jour 2** - "WTF ? C'est quoi ces trucs bizarres ? Je vais être obligé de réfléchir en fait..."
+
+**Jour 3** - "Ah tiens, j'ai jamais testé les trucs de clustering, c'est une bonne occasion." 
+
+**Jour 3,5** - "Des points bonus pour une visu ? Bon bah go paint et des chatons mignons, ça marche toujours."
+
+**Jour 4** - "Jusqu'ici tout va bien, j'en suis à environ 332 000 requêtes et je me suis pas fait ban, j'ai toujours 25 points, mais c'est bon. " 
+
+**Jour 5** - "Merde, c'est des maths ? Allez c'est mort." 
+
+**Jour 6** - "Ah ça à l'air fun. Mais je viens de me prendre M&B Bannerlord, tant pis." 
+
+**Jour 7** - "Ha c'est de l'optimisation, ça peut être sympa... Merde il est quasi minuit en fait. Tant pis. Je ferai celui de demain." 
+
+**Jour 8** - "Chouette, encore de l'optim, nickel. Mais en fait j'ai pas trop le temps, allez c'est sûr, demain je m'y remets à fond !" 
+
+**Jour 13** - "Oh c'est marrant cette carte au trésor. Bon par contre y'a plein de trucs à lire, j'ai vraiment trop la flemme. " 
+
+**Jour 14** - "Merde, il faut parler aux autres ? Pff... Ah non attends, je faire une soumission valide même si j'ai pas de points, ça va marcher avec un seul mot au pif. Hop ! "
+
+**Jour 15** - "Ah tiens, mon truc a marché, je suis devenu bon ? Ah mais non, tout le monde a les points en fait, c'était juste un problème facile."
+
+**Jour 17** - "Bon ce problème est hyper cool. Par contre, ça fait déjà 5H de tryhard dessus, et c'est très loin de ressembler à quoi que ce soit. Tant pis... "
+
+**Jour 18** - "Ah merde, j'ai pas le temps, mon truc marche pas... Bon si je soumets un espace, je peux faire croire que c'est mi-troll / mi-grattage de points sur le golf !"
+
+**Jour 19** - "Et ben voilà, pour être en haut du classement il suffit de créer le challenge. C'était pas si compliqué." 
+
+**Jour 20** - "+[----->+++<]>+.++++++++++++..----.+++.+[-->+<]>.-----------..++[->++<]>.+++++++.+++++++++++.[++>---<]>.--[-->+++++<]>--.-[--->+<]>.-[----->++<]>-.+++.>+[--->++<]>+.[--->++<]>----.++[->++<]>.-[->+++<]>.++++++++++.-[--->+<]>--."
+
+**Jour 21** - "Ah c'est fun ! ... Ah merde c'est dur... Ok, les modinverse et les gcd au pif ça suffit pas. Tant pis !"
+
+**Jour 22** - "Tiens je pourrais raconter comment j'ai pixelisé Patoche. Ou raconter n'importe quoi. C'est bien aussi de raconter n'importe quoi. "
+
