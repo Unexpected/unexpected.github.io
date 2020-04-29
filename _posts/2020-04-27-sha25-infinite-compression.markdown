@@ -19,7 +19,7 @@ Soupçonnant une entourloupe plus complexe, vous décidez alors de vous introdui
 
 Après quelques tours et détours, vous pénétrez dans une salle surprenante qui sent le mystère à plein nez. Vous notez que le plafond semble vraiment, vraiment très sombre... à moins que ?
 
-![bunker](bunker.png)
+![bunker](/assets/images/bunker.png)
 
 Si vous souhaitez vérifier l'intégrité de l'image ci-dessus, son SHA1 est e0853f95ef04f0a4d1c909ffd16281883eb1abf8.
 
