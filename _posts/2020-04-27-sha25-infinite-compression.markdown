@@ -10,7 +10,7 @@ Ceci est le challenge que j'ai proposé dans le cadre du [SHA25](http://sha25.h2
 
 La conception et la solution de ce problème sont décrits dans un autre post. 
 
-=== Le secret de la compression infinie
+### Le secret de la compression infinie
 Il y a quelques jours, un développeur roumain jusqu'alors inconnu, le professeur Bratic P. Kanybal, a mis en ligne un nouveau graal technologique : un logiciel de compression infinie.
 
 Vous soupçonnez évidemment l'homme d'être un fraudeur, mais après quelques tentatives, vous devez vous rendre à l'évidence : son programme fonctionne. Les octets disparaissent...
